@@ -41,8 +41,7 @@
     La funcionalidad de recordatorios debe ser confiable y fácil de usar. Para que los usuarios confirmen pagos con un simple comando de voz o notificación ayudando a evitar fechas vencidas y multas, reduciendo el estrés financiero.
 
 7. **Transparencia en las Transacciones**: 
-   - Los usuarios deben tener acceso a información clara y actualizada sobre el estado de sus transacciones y pagos recibidos. 
-   - Esto incluye notificaciones sobre pagos exitosos y detalles sobre cualquier problema que pueda surgir.
+    Los usuarios deben tener acceso a información clara y actualizada sobre el estado de sus transacciones y pagos recibidos, por medio de notificaciones. 
 
 8. **Integración Efectiva**: 
     La capacidad de la aplicación para integrarse sin problemas con diferentes servicios de pago y organismos es vital (Como Simpe Móvil). Debe ofrecer beneficios claros para su adopción, como la facilidad de integración y la mejora en la experiencia del usuario.
