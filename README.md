@@ -52,45 +52,47 @@
 ### Wireframes
 <hr>
 Se diseño la pantalla inicial y 2 pantallas necesarias para el proceso de registrar un nuevo pago automático. 
-<br>
-Los wireframes se hicieron a mano por medio de [Mockplus](https://www.mockplus.com/) 
+<br> 
+
+Los wireframes se hicieron a mano por medio de [Mockplus](https://www.mockplus.com/).
 
 <br>
 
 #### Pantalla Inicial
-![Alt text](Imagenes\iniciowf.png)
+![Alt text](./Imagenes/iniciowf.png)
 
 <br>
 
 #### Registrar Nuevo Pago 1
-![Alt text](Imagenes\registrarwf.png)
+![Alt text](./Imagenes/registrarwf.png)
 
 <br>
 
 #### Registrar Nuevo Pago 2
-![Alt text](Imagenes\registrarwf2.png)
+![Alt text](./Imagenes/registrarwf2.png)
 
 <br>
 <br>
 
 ### Pantallas creadas por IA
-<hr>
+<hr> 
+
 Se utilizó [Lovable](https://lovable.dev/) para la creación de las pantallas.
 
 <br>
 
 #### Pantalla Inicial
-![Alt text](Imagenes\inicio.png)
+![Alt text](./Imagenes/inicio.png)
 
 <br>
 
 #### Registrar Nuevo Pago 1
-![Alt text](Imagenes\registrar.png)
+![Alt text](./Imagenes/registrar.png)
 
 <br>
 
 #### Registrar Nuevo Pago 2
-![Alt text](Imagenes\registrar2.png)
+![Alt text](./Imagenes/registrar2.png)
 
 <br>
 <br>
