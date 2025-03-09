@@ -23,7 +23,7 @@
 <hr>
 
 1. **UX positivo**: 
-    La app debe contar con una interfaz intuitiva que permita a los usuarios explorar y configurar pagos automáticos sin complicaciones. Incluir tutoriales claros y accesibles facilitará el aprendizaje y la adopción de la herramienta.
+    La app debe contar con una interfaz intuitiva que permita a los usuarios explorar y configurar pagos automáticos sin complicaciones. Incluir tutoriales o indicaciones claras y accesibles facilitará el aprendizaje y la adopción de la herramienta tanto como para el uso de voz como de forma manual.
 
 2. **Colaboración con Municipalidades y Organismos**: 
     Es importante que la aplicación establezca conexiones con municipalidades y organismos gubernamentales para facilitar el pago de impuestos y tasas locales. Esto no solo mejora la experiencia del usuario, sino que también promueve la adopción de la aplicación en el país.
