@@ -5,7 +5,7 @@
 
 ### Diseño de Software
 #### Alonso Durán Muñoz - 2023044780
-#### Randy...
+#### Randy Baeza Ramírez - 2017047626
 
 <br>
 <br>
@@ -14,7 +14,7 @@
 
 <hr>
 
-![Alt text](GoalMap.png)
+![Alt text](Imagenes\GoalMap.png)
 
 <br>
 <br>
@@ -45,3 +45,54 @@
 
 8. **Integración Efectiva**: 
     La capacidad de la aplicación para integrarse sin problemas con diferentes servicios de pago y organismos es vital (Como Simpe Móvil). Debe ofrecer beneficios claros para su adopción, como la facilidad de integración y la mejora en la experiencia del usuario.
+
+<br>
+<br>
+
+### Wireframes
+<hr>
+Se diseño la pantalla inicial y 2 pantallas necesarias para el proceso de registrar un nuevo pago automático. 
+<br>
+Los wireframes se hicieron a mano por medio de [Mockplus](https://www.mockplus.com/) 
+
+<br>
+
+#### Pantalla Inicial
+![Alt text](Imagenes\iniciowf.png)
+
+<br>
+
+#### Registrar Nuevo Pago 1
+![Alt text](Imagenes\registrarwf.png)
+
+<br>
+
+#### Registrar Nuevo Pago 2
+![Alt text](Imagenes\registrarwf2.png)
+
+<br>
+<br>
+
+### Pantallas creadas por IA
+<hr>
+Se utilizó [Lovable](https://lovable.dev/) para la creación de las pantallas.
+
+<br>
+
+#### Pantalla Inicial
+![Alt text](Imagenes\inicio.png)
+
+<br>
+
+#### Registrar Nuevo Pago 1
+![Alt text](Imagenes\registrar.png)
+
+<br>
+
+#### Registrar Nuevo Pago 2
+![Alt text](Imagenes\registrar2.png)
+
+<br>
+<br>
+
+### Test de usabilidad
