@@ -14,7 +14,7 @@
 
 <hr>
 
-![Alt text](Imagenes\GoalMap.png)
+![Alt text](./Imagenes/GoalMap.png)
 
 <br>
 <br>
@@ -59,17 +59,18 @@ Los wireframes se hicieron a mano por medio de [Mockplus](https://www.mockplus.c
 <br>
 
 #### Pantalla Inicial
-![Alt text](./Imagenes/iniciowf.png)
+<img src="./Imagenes/iniciowf.png" alt="Alt text" width="208" height="426">
+
 
 <br>
 
 #### Registrar Nuevo Pago 1
-![Alt text](./Imagenes/registrarwf.png)
+<img src="./Imagenes/registrarwf.png" alt="Alt text" width="208" height="426">
 
 <br>
 
 #### Registrar Nuevo Pago 2
-![Alt text](./Imagenes/registrarwf2.png)
+<img src="./Imagenes/registrarwf2.png" alt="Alt text" width="208" height="426">
 
 <br>
 <br>
@@ -82,17 +83,17 @@ Se utilizó [Lovable](https://lovable.dev/) para la creación de las pantallas.
 <br>
 
 #### Pantalla Inicial
-![Alt text](./Imagenes/inicio.png)
+<img src="./Imagenes/inicio.png" alt="Alt text" width="208" height="426">
 
 <br>
 
 #### Registrar Nuevo Pago 1
-![Alt text](./Imagenes/registrar.png)
+<img src="./Imagenes/registrar.png" alt="Alt text" width="208" height="426">
 
 <br>
 
 #### Registrar Nuevo Pago 2
-![Alt text](./Imagenes/registrar2.png)
+<img src="./Imagenes/registrar2.png" alt="Alt text" width="208" height="426">
 
 <br>
 <br>
